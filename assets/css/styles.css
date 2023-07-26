@@ -55,7 +55,7 @@
     height: 100px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url(./assets/images/technology-background-1632715.jpg);
+    background-image: url(/assets/images/technology-background-1632715.jpg);
     background-size: cover;
     background-position: center;
     position: relative;
@@ -124,19 +124,15 @@ section p {
 }
 
 #project1 {
-    background-image: url(./assets/images/week-1-mini-project.jpg);
+    background-image: url(/assets/images/week-1-mini-project.jpg);
 }
- 
-/* #project1 a:link{
-    color: ;
-} */
 
 #project2 {
-    background-image:url(./assets/images/first-challenge.jpg);
+    background-image:url(/assets/images/first-challenge.jpg);
 }
 
 #project3 {
-    background-image:url(./assets/images/prework.jpg);
+    background-image:url(/assets/images/prework.jpg);
 }
 
 
@@ -145,10 +141,6 @@ section p {
     display: flex;
     justify-content: space-between;
 }
-
-/* article:hover{
-    background: #ff0000;
-} */
 
 #contactme ul li a {
     /* display: inline-block;
